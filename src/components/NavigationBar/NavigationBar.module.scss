@@ -1,0 +1,11 @@
+@import '../../theme/variable.module';
+.header {
+  background-color: $black;
+  height: 2.5rem;
+  padding: 0.25rem 0;
+}
+.startButton {
+  background-color: $white !important;
+  text-transform: none !important;
+  margin-top: 0.25rem;
+}
